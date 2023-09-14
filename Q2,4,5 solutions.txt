@@ -1,0 +1,18 @@
+Q2. Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document?
+Ans:
+The purpose of comments is to provide information about the program to developers. Comments are not rendering on a webpage or website 
+In Html, we are using the <!-- --> for single and multiline comments.
+For example:
+<!-- This is for heading of the page -->
+<h1> Heading </h1>
+
+Q4. Write a short note on Tag and element with an example?
+Ans: Tag: Tags are a set of characters enclosed in angle brackets or diamond brackets (<>) and used to define various elements within markup language. Tags are typically composed of a tag name and can include attributes that provide extra information about the element. Tags are used to tell the browser or parsing software how to interpret and render the content.
+
+Element: Elements are composed of both an opening tag and closing tag, which collectively enclosed content to form a complete unit. Elements consist of the opening tag and a corresponding closing tag. Which signifies the beginning and end of the element’s content.
+Example:
+<p>This is paragraph tag </p> Where p is the tag and this complete unit is the element.
+
+Q5. What is the DOCTYPE Declaration in HTML?
+Ans: DOCTYPE is declared as the very first line in the html. It tells the browser about which type of document it is. In HTML, we write <!DOCTYPE html> to tells the browser that this is 
+html document.
